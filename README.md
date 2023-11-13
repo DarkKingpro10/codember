@@ -15,10 +15,8 @@ The programming challenges that are carried out in the month of November come ou
 
 |                                        Challenge                                         |            Solutions             |
 | :--------------------------------------------------------------------------------------: | :------------------------------: |
-|                                           #01                                            | [JS](/2023/challenge 01/index.js) |
-|                                                                                          | [TS](/2023/challenge 01/index.ts) |
-|                                           #02                                            | [JS](/2023/challenge 02/index.js) |
-|                                                                                          | [TS](/2023/challenge 02/index.ts) |
+|                                           #01                                            | [JS](2023/challenge 01/index.js) |
+
 
 ## Secrets Table
 
