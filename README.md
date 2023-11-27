@@ -19,6 +19,8 @@ The programming challenges that are carried out in the month of November come ou
 |                                                                                          | [TS](2023/challenge01/index.ts)  |
 |                                           #02                                            | [JS](2023/challenge02/index.js)  |
 |                                                                                          | [TS](2023/challenge02/index.ts)  |
+|                                           #03                                            | [JS](2023/challenge03/index.js)  |
+|                                                                                          | [TS](2023/challenge03/index.ts)  |
 
 ## Secrets Table
 
@@ -54,4 +56,16 @@ The programming challenges that are carried out in the month of November come ou
 - Read each with command `mail <id>`.
 - Send the answer with command: `submit <respuesta>`.
 - submit html is the answer.
+#### 🪄  7) Barrel
+
+- Use the command `do barrel roll`
+#### 🪄  7) New Email
+
+- Use the command `mail`.
+- Read each with command `mail 3`.
+- Send the answer with command: `sudo imgjjpzdbmrw`.
+- `submit majortom`.
+#### 🧑🏻‍🦲 7) OpenAi, Sam Altman
+
+- Use the command `$ submit altman`.
 </details>
