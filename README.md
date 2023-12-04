@@ -21,6 +21,10 @@ The programming challenges that are carried out in the month of November come ou
 |                                                                                          | [TS](2023/challenge02/index.ts)  |
 |                                           #03                                            | [JS](2023/challenge03/index.js)  |
 |                                                                                          | [TS](2023/challenge03/index.ts)  |
+|                                           #04                                            | [JS](2023/challenge04/index.js)  |
+|                                                                                          | [TS](2023/challenge04/index.ts)  |
+|                                           #05                                            | [JS](2023/challenge05/index.js)  |
+|                                                                                          | [TS](2023/challenge05/index.ts)  |
 
 ## Secrets Table
 
