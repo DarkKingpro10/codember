@@ -520,4 +520,7 @@ POLICY_PASSWORDS.split('\n').forEach(policyPassword => {
 
 console.log(invalidKeys[41]);
 
+
+console.log(invalidKeys[12]);
+
 console.timeEnd('Challenge 03');

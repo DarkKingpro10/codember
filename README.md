@@ -59,13 +59,32 @@ The programming challenges that are carried out in the month of November come ou
 #### 🪄  7) Barrel
 
 - Use the command `do barrel roll`
-#### 🪄  7) New Email
+#### 🪄  8) New Email
 
 - Use the command `mail`.
 - Read each with command `mail 3`.
-- Send the answer with command: `sudo imgjjpzdbmrw`.
+- Send the answer with command: `sudo nljzuyfzb`.
 - `submit majortom`.
-#### 🧑🏻‍🦲 7) OpenAi, Sam Altman
+#### 🧑🏻‍🦲 9) OpenAi, Sam Altman
 
 - Use the command `$ submit altman`.
+
+#### 🐄 10) cowsay
+- Have a new mail
+- Read the mail 4 with command `mail 4`
+- `submit ping`
+
+#### 🐞 11) Final Bug
+- Have a new mail
+- Read the mail 5 `mail 5`
+- `submit bug`
+
+#### 👾 12) Tetris
+- Read the CHANGELOG.txt file
+- Use command `play tetris`
+
+#### 🪐 13) Mart
+- Access to the private folder, mail 3 teach you how
+- Read the final_log_mars_mission.txt use command `cat final_log_mars_mission.txt`.
+- Use command `npm install adventjs`
 </details>
